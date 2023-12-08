@@ -25,9 +25,9 @@ This Python script fetches YesNo images using the YesNo API and allows you to co
 The script will save the fetched image and copy it to the clipboard.
 
 ## Requirements
-requests: Used to make HTTP requests to the YesNo API.
-Pillow: A powerful image processing library.
-pyperclip: Provides a cross-platform Python module for clipboard access.
+requests: Used to make HTTP requests to the YesNo API.  
+Pillow: A powerful image processing library.  
+pyperclip: Provides a cross-platform Python module for clipboard access.  
 
 **requirements.txt:**
 
